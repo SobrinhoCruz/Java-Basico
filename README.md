@@ -1,2 +1,2 @@
 # Java-Basico
-Aprendendo e Praticando JavaSE 1.8
+Java é uma linguagem de programação orientada a objetos desenvolvida na década de 90 por uma equipe de programadores chefiada por James Gosling, na empresa Sun Microsystems.
